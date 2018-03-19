@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech_Synthesis_WPF", "Speech_Synthesis_WPF\Speech_Synthesis_WPF.csproj", "{A399DC8D-6A5F-4899-B510-4DB5383390C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A399DC8D-6A5F-4899-B510-4DB5383390C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A399DC8D-6A5F-4899-B510-4DB5383390C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A399DC8D-6A5F-4899-B510-4DB5383390C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A399DC8D-6A5F-4899-B510-4DB5383390C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008BDFED-8B40-4361-9B3D-0C2E25636AB1}
+	EndGlobalSection
+EndGlobal
